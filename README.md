@@ -11,6 +11,7 @@
 Bu proje, **Huawei & Türkiye Yapay Zeka Akademisi Data Science Bootcamp** bitirme çalışması olarak geliştirilmiştir. K-Means makine öğrenmesi algoritması kullanılarak, müşterilerin harcama alışkanlıklarındaki gizli örüntüler keşfedilmiş ve veri odaklı pazarlama stratejileri için segmentasyon yapılmıştır.
 
 🔗 **[Medium Makalemi Oku: Verinin Gücüyle Müşterileri Tanımak]https://medium.com/@nidazbey/verinin-g%C3%BCc%C3%BCyle-m%C3%BC%C5%9Fterileri-tan%C4%B1mak-k-means-ile-m%C3%BC%C5%9Fteri-segmentasyonu-78314b4104bf)**
+
 🏆 **[Bootcamp Sertifikamı Görüntüle](bootcamp_sertifikasi.png)**
 
 ---
